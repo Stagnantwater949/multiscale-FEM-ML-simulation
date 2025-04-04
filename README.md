@@ -15,6 +15,7 @@ This project explores the integration of Finite Element Method (FEM) with Machin
 - `report.pdf` – Full project report
 - `synthetic_data.csv` – Sample dataset used for training
 - `photos` - some are results and some are obtained during the procedure
+- Abaqus job files
 
 ## Outcome
 Improved accuracy in predicting deformation behavior by integrating microstructural insights into macroscale FEM simulations.
