@@ -12,7 +12,7 @@ This project explores the integration of Finite Element Method (FEM) with Machin
 - Python (pandas, scikit-learn, matplotlib)
 
 ## Files Included
-- `[report.pdf](https://github.com/Stagnantwater949/multiscale-FEM-ML-simulation/blob/main/Project%20Report.pdf)` – Full project report
+- `[report.pdf]([url](https://github.com/Stagnantwater949/multiscale-FEM-ML-simulation/blob/main/Project%20Report.pdf))– Full project report
 - `synthetic_data.csv` – Sample dataset used for training
 - `photos` - some are results and some are obtained during the procedure
 - Abaqus job files
